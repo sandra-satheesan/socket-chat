@@ -1,0 +1,25 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "A simple real-time chat application built with Node.js and Socket.IO for instant messaging between users.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandra-satheesan/socket-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sandra-satheesan/socket-chat/issues"
+  },
+  "homepage": "https://github.com/sandra-satheesan/socket-chat#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
